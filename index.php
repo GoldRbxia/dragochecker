@@ -5,11 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <meta name="title" content="CHECKER CC">
-  <meta name="description" content="CC checker is a tool that checks if a credit card is correct. It not only checks the validity but also whether the credit card is alive or dead.">
-  <meta name="keywords" content="cc, checker, mass cc checker, bin, generated cc, credit card, validator, free, live, dead, cvv, cvc, amex, master, platinum, debit card, php, awesome, oshekher, puritywashere, cracking, hacking, carding, trial, source, website, 18+, OshekharO, Saksham Shekher, feilu, alternative">
-  <meta name="robots" content="index, follow">
-  <meta name="language" content="English">
-  <meta name="author" content="Saksham">
   <meta property="og:url" content="/">
   <meta property="og:image" content="https://rawcdn.githack.com/OshekharO/Entertainment-Index/17d005915d5e20780a46aef227f08367ca8efb3a/img/apple-touch-icon.png">
   <meta property="og:locale" content="en_US" />
